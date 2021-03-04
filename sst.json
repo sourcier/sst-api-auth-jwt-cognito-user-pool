@@ -1,0 +1,6 @@
+{
+  "name": "sst-api-auth-jwt-cognito-user-pool",
+  "stage": "dev",
+  "region": "eu-west-2",
+  "lint": true
+}
